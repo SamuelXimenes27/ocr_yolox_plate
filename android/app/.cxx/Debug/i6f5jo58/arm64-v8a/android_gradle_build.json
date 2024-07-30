@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/samuel/Documentos/PersonalProjects/ocr_yolox_plate/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/samuel/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/samuel/Documentos/PersonalProjects/ocr_yolox_plate/android/app/.cxx/Debug/i6f5jo58/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/samuel/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/samuel/Documentos/PersonalProjects/ocr_yolox_plate/android/app/.cxx/Debug/i6f5jo58/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "convertImage::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "convertImage",
+      "output": "/home/samuel/Documentos/PersonalProjects/ocr_yolox_plate/build/app/intermediates/cxx/Debug/i6f5jo58/obj/arm64-v8a/libconvertImage.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/samuel/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/samuel/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

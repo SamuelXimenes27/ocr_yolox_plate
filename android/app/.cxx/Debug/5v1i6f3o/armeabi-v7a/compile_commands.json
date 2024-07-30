@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/samuel/Documentos/PersonalProjects/ocr_yolox_plate/android/app/.cxx/Debug/5v1i6f3o/armeabi-v7a",
+  "command": "/home/samuel/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi24 --gcc-toolchain=/home/samuel/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/samuel/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DconvertImage_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/convertImage.dir/home/samuel/Documentos/PersonalProjects/ocr_yolox_plate/ios/Classes/converter.c.o -c /home/samuel/Documentos/PersonalProjects/ocr_yolox_plate/ios/Classes/converter.c",
+  "file": "/home/samuel/Documentos/PersonalProjects/ocr_yolox_plate/ios/Classes/converter.c"
+}
+]

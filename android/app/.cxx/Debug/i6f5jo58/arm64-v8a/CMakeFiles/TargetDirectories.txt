@@ -1,0 +1,3 @@
+/home/samuel/Documentos/PersonalProjects/ocr_yolox_plate/android/app/.cxx/Debug/i6f5jo58/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/samuel/Documentos/PersonalProjects/ocr_yolox_plate/android/app/.cxx/Debug/i6f5jo58/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/samuel/Documentos/PersonalProjects/ocr_yolox_plate/android/app/.cxx/Debug/i6f5jo58/arm64-v8a/CMakeFiles/convertImage.dir
